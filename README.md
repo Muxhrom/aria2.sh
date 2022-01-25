@@ -1,4 +1,13 @@
-# Aria2 一键安装管理脚本 增强版
+#原项目地址：https://github.com/P3TERX/aria2.sh
+##本人在此对脚本做了些许改动，主要将"git.io"等短链接替换为长链接，方便天朝内的计算机
+* 下载脚本
+```
+wegt -N raw.githubusercontent.com/Muxhrom/aria2.sh/master/aria2.sh && chmod +x aria2.sh
+```
+
+
+
+## Aria2 一键安装管理脚本 增强版
 
 [![LICENSE](https://img.shields.io/github/license/P3TERX/aria2.sh?style=flat-square)](https://github.com/P3TERX/aria2.sh/blob/master/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/P3TERX/aria2.sh.svg?style=flat-square&label=Stars&logo=github)](https://github.com/P3TERX/aria2.sh/stargazers)
