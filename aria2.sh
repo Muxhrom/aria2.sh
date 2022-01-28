@@ -589,7 +589,7 @@ Update_bt_tracker() {
     check_installed_status
     check_pid
     [[ -z $PID ]] && {
-#         bash <(wget -qO- https://raw.githubusercontent.com/P3TERX/aria2_perfect_config/master/tracker.sh) ${aria2_conf}
+        bash <(wget -qO- https://raw.githubusercontent.com/P3TERX/aria2_perfect_config/master/tracker.sh) ${aria2_conf}
     } || {
         bash <(wget -qO- https://raw.githubusercontent.com/P3TERX/aria2_perfect_config/master/tracker.sh) ${aria2_conf} RPC
     }
