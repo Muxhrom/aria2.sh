@@ -2,7 +2,7 @@
 ## 本人在此对脚本做了些许改动，主要将"git.io"等短链接替换为长链接，方便天朝内的计算机
 * 下载脚本
 ```
-wegt -N raw.githubusercontent.com/Muxhrom/aria2.sh/master/aria2.sh && chmod +x aria2.sh
+wget -N raw.githubusercontent.com/Muxhrom/aria2.sh/master/aria2.sh && chmod +x aria2.sh
 ```
 
 
